@@ -22,3 +22,6 @@ Number Hunter is a small number-guessing game made using HTML, CSS and JavaScrip
 I made this project to practise basic JavaScript, random number generation and simple game logic. It is a beginner-friendly project that I can improve with more features in the future.
 
 You can play this game here - https://hardik19april-eng.github.io/Number-hunter/
+
+
+<img width="625" height="427" alt="image" src="https://github.com/user-attachments/assets/7d505d9a-a64d-44e4-ab74-65b1ad99fccd" />
